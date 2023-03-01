@@ -1,4 +1,4 @@
-## Explorations on class-specificity, early mitigation, and ambiguous peptides on meaningful batch effect correction in mass-spectrometry-based proteomics --- A commentary on proBatch
+##Intricacies in proteomic batch effect correction: a commentary on proBatch
 
 Codes used to analyse and generate figures for the manuscript. 
 
