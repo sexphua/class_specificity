@@ -1,4 +1,4 @@
-##Intricacies in proteomic batch effect correction: a commentary on proBatch
+## Intricacies in proteomic batch effect correction: a commentary on proBatch
 
 Codes used to analyse and generate figures for the manuscript. 
 
